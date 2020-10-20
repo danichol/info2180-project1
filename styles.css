@@ -39,10 +39,19 @@ a:hover{
 /* The h2 heading in the "Learn About" section 
    should have a text sixe of 24px and have the color #48BB78 */
 
-h2{
+h2 {
     font-size: 24px;
     color: #48BB78;
 }
+
+/* The cards in the "Learn About" section should have a text size
+   24px and have the colour #48BB78 */
+
+h3 {
+    font-size: 24px;
+    color: #48BB78;
+}
+
 .container {
     margin: 0 auto;
     max-width: 960px;
