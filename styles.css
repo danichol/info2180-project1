@@ -63,8 +63,46 @@ a:hover{
     background-color: #4A5568;
     color: white;
 }
+
+/* do the thingy for the link to learn more */
+
+/* For the "Recent Stories" main heading and the links to "Read this Story"
+   should have the colour #5A67D8. The title for each story should be 18px in size */
+
+.stories h2,
+a{
+color: #5A67D8;
+}
 .container {
     margin: 0 auto;
     max-width: 960px;
     width: 100%;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
