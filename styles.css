@@ -39,7 +39,7 @@ a:hover{
 /* The h2 heading in the "Learn About" section 
    should have a text sixe of 24px and have the color #48BB78 */
 
-h2 {
+.learn-about h2 {
     font-size: 24px;
     color: #48BB78;
 }
