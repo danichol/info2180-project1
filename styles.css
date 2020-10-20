@@ -51,7 +51,7 @@ a:hover{
 /* The cards in the "Learn About" section should have a border colour of #E2E8F0 
    and the corners should be rounded by 5px using the appropriate property. The
    cards should also have slight shadow */
-.learn-about container{
+.cards container{
     grid-template-columns: 40px;
     grid-template rows: 25% 100px auto;
 }
