@@ -4,6 +4,11 @@ body {
     font-size: 16px;
 }
 
+head{
+    text-align: left;
+}
+
+
 .container {
     margin: 0 auto;
     max-width: 960px;
