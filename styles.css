@@ -44,11 +44,14 @@ h2 {
     color: #48BB78;
 }
 
-/* The cards in the "Learn About" section should have a text size
-   24px and have the colour #48BB78 */
+/* The cards in the "Learn About" section should have a border colour of #E2E8F0 
+   and the corners should be rounded by 5px using the appropriate property. The
+   cards should also have slight shadow */
 
+/* The  h3 headings in the card grid for the "Learn About" section
+   should have the colour #48BB78 and be a font size of 21px*/
 .card h3 {
-    font-size: 24px;
+    font-size: 21px;
     color: #48BB78;
 }
 
