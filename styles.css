@@ -65,7 +65,6 @@ a:hover{
 }
 
 .testing a{
-    vertical-align: text-top;
     background-color: #48BB78;
     color: white;
     display: block;
@@ -74,8 +73,6 @@ a:hover{
     width: 100px;
     border-radius: 5px;
 }
-
-
 
 /* For the "Recent Stories" main heading and the links to "Read this Story"
    should have the colour #5A67D8. The title for each story should be 18px in size */
@@ -88,6 +85,30 @@ color: #5A67D8;
 .stories h3{
     font-size: 18px;
 }
+
+
+/* For the Newsletter section, the background should have the colour
+   #48BB78 and the text color should be white. The "Subscribe" button should 
+   have a background colour of #5A67D8*/
+
+.newsletter {
+    background-color: #48BB78;
+    color: white;
+}
+
+.newsletter a{
+    background-color: #5A67D8;
+    color: white;
+    display: block;
+    padding: 10px 10px;
+    text-align: center;
+    width: 100px;
+    border-radius: 5px;
+}
+
+/* The Footer section should have a background colour of #4A5568
+   and the color of the text should be white */ 
+
 
 .container {
     margin: 0 auto;
