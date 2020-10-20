@@ -52,8 +52,8 @@ a:hover{
    and the corners should be rounded by 5px using the appropriate property. The
    cards should also have slight shadow */
 .cards container{
-    grid-template-columns: 40px;
-    grid-template rows: 25% 100px auto;
+    grid-template-columns: 40px 40px 40px;
+    grid-template rows: 25%;
 }
 /* The  h3 headings in the card grid for the "Learn About" section
    should have the colour #48BB78 and be a font size of 21px*/
