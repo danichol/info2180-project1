@@ -10,6 +10,7 @@ h1{
 
 li{
     display: inline-block;
+    padding-left: 11px;
     float: right;
 }
 
