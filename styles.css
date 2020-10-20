@@ -65,6 +65,7 @@ a:hover{
 }
 
 .testing a{
+    vertical-align: text-top;
     background-color: #48BB78;
     color: white;
     display: block;
@@ -74,7 +75,7 @@ a:hover{
     border-radius: 5px;
 }
 
-/* do the thingy for the link to learn more */
+
 
 /* For the "Recent Stories" main heading and the links to "Read this Story"
    should have the colour #5A67D8. The title for each story should be 18px in size */
