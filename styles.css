@@ -64,6 +64,10 @@ a:hover{
     color: white;
 }
 
+.testing a{
+    background-color: #48BB78;
+}
+
 /* do the thingy for the link to learn more */
 
 /* For the "Recent Stories" main heading and the links to "Read this Story"
@@ -77,6 +81,7 @@ color: #5A67D8;
 .stories h3{
     font-size: 18px;
 }
+
 .container {
     margin: 0 auto;
     max-width: 960px;
