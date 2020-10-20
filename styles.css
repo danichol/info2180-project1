@@ -47,7 +47,7 @@ h2 {
 /* The cards in the "Learn About" section should have a text size
    24px and have the colour #48BB78 */
 
-h3 {
+.card {
     font-size: 24px;
     color: #48BB78;
 }
