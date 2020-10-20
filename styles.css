@@ -1,8 +1,12 @@
 /* Add your CSS to this file */
+
+/* The default font family for the landing page should be -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif and the default font size should be 18px */ 
+
 html{
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
     font-size: 18px;
 }
+
 /* The header should have a background color of white. And the font size for the text should be 18px. */
 
 header{
@@ -47,7 +51,10 @@ a:hover{
 /* The cards in the "Learn About" section should have a border colour of #E2E8F0 
    and the corners should be rounded by 5px using the appropriate property. The
    cards should also have slight shadow */
-
+.learn-about container{
+    grid-template-columns: 40px;
+    grid-template rows: 25% 100px auto;
+}
 /* The  h3 headings in the card grid for the "Learn About" section
    should have the colour #48BB78 and be a font size of 21px*/
 .card h3 {
