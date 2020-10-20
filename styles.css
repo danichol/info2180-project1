@@ -23,10 +23,15 @@ li{
     display: inline-block;
     padding-left: 11px;
     float: right;
-    color: #6b7280;
-    
 }
 
+a:link{
+    color: #6B7280;
+}
+
+a:hover{
+    color: #5A67D8;
+}
 
 
 .container {
