@@ -22,6 +22,17 @@ html{
     align-self: right;
 }
 
+li{
+    padding-left: 11px;
+    float: right;
+}
+
+/* The navigation links should have a color of #6b7280 
+   but when you hover over the links, the color should change yo #5A67D8*/
+
+   a:link{
+    color: #6B7280;
+}
 
 a:hover{
     color: #5A67D8;
