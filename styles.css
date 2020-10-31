@@ -26,3 +26,7 @@ html{
     padding: 11px;
     color: #6b7280;
 }
+
+a:hover{
+    color: #5A67D8;
+} 
