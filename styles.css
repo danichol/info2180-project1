@@ -12,7 +12,7 @@ html{
 .container nav{
     display: grid;
     grid-column: -2;
-    background-color: white;
+    background-color: pink;
     font-size: 18px;
 }
 
