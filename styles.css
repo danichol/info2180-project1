@@ -9,23 +9,20 @@ html{
 
 /* The header should have a background color of white. And the font size for the text should be 18px. */
 
-header{
+.container nav{
+    display: grid;
+    grid-column: -2;
     background-color: white;
     font-size: 18px;
 }
 
-body {
-    margin: 0;
-    font-size: 16px;
+.container ul{
+    list-style: none;
+    display: flex;
+    align-self: right;
 }
 
-h1{
-    text-align: left;
+.container ul li a{
+    padding: 1.6rem;
+    color: #6b7280;
 }
-
-li{
-    display: inline-block;
-    padding-left: 11px;
-    float: right;
-}
-
