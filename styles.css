@@ -154,7 +154,12 @@ font-size: 21px;
     flex-direction: row;
 }
 
-.article-body {
+.stories article{
+    display: flex;
+    flex-direction: row;
+}
+
+.stories .article-body {
     float: right;
     padding-left: 10px;
 }
