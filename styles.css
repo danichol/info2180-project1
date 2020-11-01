@@ -20,12 +20,7 @@ html{
     list-style: none;
     display: inline;
     align-self: right;
-}
-
-li{
-    display: inline;
     padding-left: 11px;
-    float: right;
 }
 
 /* The navigation links should have a color of #6b7280 
