@@ -131,3 +131,6 @@ font-size: 21px;
        font-size: 18px;
    }
    
+.stories img {
+    border-radius: 50%;
+  }
