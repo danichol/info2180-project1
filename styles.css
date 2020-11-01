@@ -133,7 +133,6 @@ font-size: 21px;
     flex-direction: column;
 }
 
-
 .stories h2,
  a{
    color: #5A67D8;
@@ -143,3 +142,12 @@ font-size: 21px;
        font-size: 18px;
    }
 
+.article {
+    display: flex;
+    flex-direction: row;
+}
+
+.article-body {
+    float: right;
+    padding-left: 10px;
+}
