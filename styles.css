@@ -131,9 +131,8 @@ font-size: 21px;
        font-size: 18px;
    }
    
-.stories img {
-    border-radius: 50%;
-    float: left;
-    margin-right: 30px;
-    background-color: aquamarine;
-  }
+.stories .container{
+    display: flex;
+    padding: 10px;
+    border: 1px;
+}
