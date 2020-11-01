@@ -133,6 +133,7 @@ font-size: 21px;
    
 .stories .container{
     display: flex;
+    flex-direction: row;
     padding: 10px;
     border: 1px;
 }
