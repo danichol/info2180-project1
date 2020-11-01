@@ -71,7 +71,10 @@ grid-template-columns: 1fr 1fr 1fr ;
 grid-column-gap: 1px;
 margin: 5px 5px;
 align-self: auto;
-padding:5%;
+padding-top: 30px;
+padding-right: 50px;
+padding-bottom: 30px;
+padding-left: 50px;
 }  
 
 .learn-about .container .card{
