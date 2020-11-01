@@ -60,3 +60,13 @@ body {
 .overview-hero-image{
     align: left;
 }
+
+.overview-hero{
+    &__image{
+        width: 250px;
+        float: left;
+    }
+    &__text {
+        display: inline;
+    }
+}
