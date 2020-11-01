@@ -18,7 +18,7 @@ html{
 
 .container ul{
     list-style: none;
-    display: flex;
+    display: inline;
     align-self: right;
 }
 
@@ -31,7 +31,7 @@ li{
 /* The navigation links should have a color of #6b7280 
    but when you hover over the links, the color should change yo #5A67D8*/
 
-   a:link{
+a:link{
     color: #6B7280;
 }
 
