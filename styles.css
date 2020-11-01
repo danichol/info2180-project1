@@ -63,5 +63,5 @@ body {
 .learn-about .container .cards{
 display: grid;
 grid-template-columns: 1fr 1fr 1fr ;
-grid-column-gap: 5px ;
+grid-column-gap: 10px;
 }  
