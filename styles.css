@@ -157,6 +157,7 @@ font-size: 21px;
 .stories article{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .stories .article-body {
