@@ -87,3 +87,8 @@ align-self: auto;
 color: #4ABB78;
 font-size: 21px;
 }
+
+.learn-about {
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
