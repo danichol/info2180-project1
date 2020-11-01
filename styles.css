@@ -59,7 +59,6 @@ body {
     padding:3%;
     background-color:#E2E8F0;
     align-items: center;
-    text-align: right;
 }
 
 .overview-hero-image img{
@@ -210,3 +209,17 @@ form{
     border: none;
     border-radius: 5px;
 }
+
+/* The Footer section should have a background colour of #4A5568
+   and the color of the text should be white */ 
+
+   footer {
+    background-color: #4A5568;
+    color: white;
+}
+.container {
+    margin: 0 auto;
+    max-width: 960px;
+    width: 100%;
+}
+
