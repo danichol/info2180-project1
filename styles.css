@@ -166,3 +166,22 @@ font-size: 21px;
     padding-left: 10px;
     flex-wrap: wrap;
 }
+
+/* For the Newsletter section, the background should have the colour
+   #48BB78 and the text color should be white. The "Subscribe" button should 
+   have a background colour of #5A67D8*/
+
+.newsletter {
+    background-color: #48BB78;
+    color: white;
+}
+
+.newsletter button {
+    background-color: #5A67D8;
+    color: white;
+    display: block;
+    padding: 10px 10px;
+    text-align: center;
+    width: 100px;
+    border-radius: 5px;
+}
