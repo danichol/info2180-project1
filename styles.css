@@ -61,12 +61,8 @@ body {
     align: left;
 }
 
-.overview-hero{
-    &__image{
+.overview-hero img{
         width: 250px;
         float: left;
-    }
-    &__text {
-        display: inline;
-    }
 }
+   
