@@ -216,10 +216,7 @@ form{
    footer {
     background-color: #4A5568;
     color: white;
+    padding: 5%;
 }
-.container {
-    margin: 0 auto;
-    max-width: 960px;
-    width: 100%;
-}
+
 
