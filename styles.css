@@ -23,6 +23,12 @@ html{
     padding-left: 11px;
 }
 
+.container li{
+    display: inline;
+    padding-left: 11px;
+    float: right;
+}
+
 /* The navigation links should have a color of #6b7280 
    but when you hover over the links, the color should change yo #5A67D8*/
 
