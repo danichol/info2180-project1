@@ -118,10 +118,22 @@ font-size: 21px;
 
 /* For the "Recent Stories" main heading and the links to "Read this Story"
    should have the colour #5A67D8. The title for each story should be 18px in size */
+   
+.stories .container{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 1px;
+}
+.stories img {
+    border-radius: 50%;
+    padding: 10px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
 
- .stories{
-     padding:5%;
- }  
+
 .stories h2,
  a{
    color: #5A67D8;
@@ -130,10 +142,4 @@ font-size: 21px;
 .stories h3{
        font-size: 18px;
    }
-   
-.stories .container{
-    display: flex;
-    flex-direction: column;
-    padding: 10px;
-    border: 1px;
-}
+
