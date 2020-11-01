@@ -178,6 +178,7 @@ font-size: 21px;
     flex-direction: column;
     padding:5%;
     align-items: center;
+    width: 500px;
 }
 
 .newsletter button {
