@@ -8,12 +8,18 @@ html{
 }
 
 /* The header should have a background color of white. And the font size for the text should be 18px. */
+header h1{
+    background-color: white;
+    font-size: 18px;
+    display: inline;
+}
 
 .container nav{
-    display: grid;
-    grid-column: -2;
+    display: inline;
+    margin: 0;
     background-color: pink;
     font-size: 18px;
+    float: right;
 }
 
 .container ul{
