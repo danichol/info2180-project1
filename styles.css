@@ -133,10 +133,11 @@ font-size: 21px;
     flex-direction: column;
 }
 
-.stories h2,
- a{
-   color: #5A67D8;
-   }
+.stories h2{
+    color: #5A67D8;
+    justify-content: flex-start;
+    margin-right: auto;
+}
    
 .stories h3{
        font-size: 18px;
