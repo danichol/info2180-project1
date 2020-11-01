@@ -68,10 +68,9 @@ body {
 .learn-about .container .cards{
 display: grid;
 grid-template-columns: 1fr 1fr 1fr ;
-grid-column-gap: 1px;
 margin: 5px 5px;
 align-self: auto;
-padding:5%;
+padding-top:1%;
 }  
 
 .learn-about .container .card{
