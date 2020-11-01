@@ -23,6 +23,7 @@ html{
 }
 
 li{
+    display: inline;
     padding-left: 11px;
     float: right;
 }
