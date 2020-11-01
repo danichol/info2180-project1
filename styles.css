@@ -61,10 +61,8 @@ body {
         float: left;
 }
 
-.learn-about h2{
-    font-size: 24px;
-    color: #4ABB78;
-}
+/* LEARN ABOUT SECTION */
+
 .learn-about .container .cards{
     display: grid;
     grid-template-columns: auto auto auto;
@@ -87,6 +85,17 @@ body {
 .learn-about .container .cards h3{
 color: #4ABB78;
 font-size: 21px;
+}
+
+.learn-about h2{
+    font-size: 24px;
+    color: #4ABB78;
+}
+
+.learn-about img{
+    width: 20px;
+    height: 20px;
+    padding: 1%;
 }
 
 .learn-about {
