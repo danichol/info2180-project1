@@ -134,5 +134,6 @@ font-size: 21px;
 .stories img {
     border-radius: 50%;
     float: left;
-    margin-right: 10px;
+    margin-right: 30px;
+    background-color: aquamarine;
   }
