@@ -59,6 +59,8 @@ body {
 
 .container .overview-hero-image{
         float: left;
+        width: 200px;
+        height: 150px;
 }
 
 .learn-about h2{
