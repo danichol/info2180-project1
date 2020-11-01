@@ -60,6 +60,11 @@ body {
 .overview-hero-image{
         float: left;
 }
+
+.learn-about h2{
+    font-size: 24px;
+    color: #4ABB78;
+}
 .learn-about .container .cards{
 display: grid;
 grid-template-columns: 1fr 1fr 1fr ;
