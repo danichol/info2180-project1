@@ -66,14 +66,14 @@ body {
     color: #4ABB78;
 }
 .learn-about .container .cards{
-display: grid;
-grid-template-columns: 1fr 1fr 1fr ;
-grid-column-gap: 0px;
-margin: 5px 5px;
-align-self: auto;
-padding-left:1%;
-padding-right:1%;
-padding-bottom:1%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-gap: 10px;
+    margin: 5px 5px;
+    align-self: auto;
+    padding-left:1%;
+    padding-right:1%;
+    padding-bottom:1%;
 }  
 
 .learn-about .container .card{
@@ -132,7 +132,6 @@ font-size: 21px;
     padding: 1%;
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
 
 .stories h2{
