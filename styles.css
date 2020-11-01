@@ -138,7 +138,12 @@ font-size: 21px;
     justify-content: flex-start;
     margin-right: auto;
 }
-   
+
+.stories a{
+    color: #5A67D8;
+    font-weight: bold;
+}
+
 .stories h3{
        font-size: 18px;
    }
