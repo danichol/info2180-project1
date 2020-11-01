@@ -132,6 +132,7 @@ font-size: 21px;
     padding: 1%;
     display: flex;
     flex-direction: column;
+    align-items: auto;
 }
 
 .stories h2{
