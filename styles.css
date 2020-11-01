@@ -96,7 +96,8 @@ font-size: 21px;
 /* For the COVID-19 Testing section, the background colour should be #4A5568 and
    the text colour should be white. The link to "Learn More" should have a
    background colour of #48BB78 and rounded corners of 5px. */
-.container .testing{
+
+.testing{
     background-color: #4A5568;
     color: white;
     padding: 20%;
