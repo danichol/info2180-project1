@@ -69,4 +69,16 @@ body {
 display: grid;
 grid-template-columns: 1fr 1fr 1fr ;
 grid-column-gap: 10px;
+margin: 15px 15px;
+align-self: auto;
 }  
+
+.learn-about .container .card{
+    border: 3px solid;
+    border-color: #E2E8F0;
+    border-radius: 10px;
+    box-shadow: 3px 3px;
+    width: 300px;
+    padding: 20px;
+    margin-top: 90px;
+}
