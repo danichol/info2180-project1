@@ -55,8 +55,10 @@ body {
     padding:2%;
     text-align: left;
     background-color:#E2E8F0;
+    display: inline;
 }
 
 .overview-hero-image{
     align: left;
+    display: inline;
 }
