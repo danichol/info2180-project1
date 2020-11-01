@@ -51,14 +51,20 @@ body {
     font-size: 16px;
 }
 
-.overview-hero{
+
+/* OVERVIEW HERO SECTION */
+
+.overview-hero .container{
+    display: flex;
     padding:5%;
-    text-align: left;
     background-color:#E2E8F0;
+    align-items: center;
 }
 
 .overview-hero-image{
         float: left;
+        height: 200px;
+        width: 200px;
 }
 
 /* LEARN ABOUT SECTION */
