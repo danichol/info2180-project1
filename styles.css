@@ -82,3 +82,8 @@ align-self: auto;
     padding: 20px;
     margin-top: 90px;
 }
+
+.learn-about.container .cards .card .card-body h3{
+color: #4ABB78;
+font-size: 21px;
+}
