@@ -52,8 +52,9 @@ body {
 }
 
 .overview-hero{
+    padding:1%;
     text-align: left;
-    background-color: pink;
+    background-color:#E2E8F0;
 }
 
 .overview-hero-image{
