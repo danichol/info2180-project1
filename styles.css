@@ -28,13 +28,13 @@ header h1{
     display: inline;
     align-self: right;
     padding-left: 11px;
+    text-decoration: none;
 }
 
 .container li{
     display: inline;
     padding-left: 11px;
     float: right;
-    text-decoration: none;
 }
 
 /* The navigation links should have a color of #6b7280 
