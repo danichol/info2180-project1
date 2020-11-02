@@ -2,6 +2,7 @@
 /* The default font family for the landing page should be -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif and the default font size should be 18px */ 
 
 html{
+    margin: auto;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
     font-size: 18px;
     padding:2%;
@@ -33,6 +34,7 @@ header h1{
     display: inline;
     padding-left: 11px;
     float: right;
+    text-decoration: none;
 }
 
 /* The navigation links should have a color of #6b7280 
@@ -198,14 +200,6 @@ font-size: 21px;
     padding:5%;
     align-items: center;
 }
-/* 
-form{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding-right: 15px;
-}
-*/
 
 .newsletter button {
     background-color: #5A67D8;
