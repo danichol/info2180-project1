@@ -223,18 +223,10 @@ font-size: 21px;
     background-color: #5A67D8;
     color: white;
 }   
-/* .newsletter button {
-    background-color: #5A67D8;
-    color: white;
-    display: flex;
-    flex-direction: row;
-    padding: 10px 10px;
-    text-align: center;
-    width: 100px;
-    border: none;
-    border-radius: 5px;
+
+.newsletter button{
+    padding-left: 1%;
 }
-*/
 
 form {
     display: flex;
