@@ -217,11 +217,12 @@ form{
     border-radius: 5px;
 }
 
-form{
+.form-group {
     display:flex;
     flex-direction: row;
     align-items: center;
     margin-bottom: 35px;
+    background-color: purple;
 }
 
 #email{
