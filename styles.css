@@ -137,7 +137,7 @@ font-size: 21px;
     background-color: #48BB78;
     color: white;
     display: block;
-    padding: 10px 10px;
+    padding-left: 5%;
     text-align: center;
     width: 100px;
     border-radius: 5px;
@@ -208,7 +208,7 @@ font-size: 21px;
     align-items: center;
 }
 
-.newsletter .btn {
+.newsletter button {
     background-color: #5A67D8;
     color: white;
     display: flex;
