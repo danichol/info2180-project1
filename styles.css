@@ -131,6 +131,7 @@ font-size: 21px;
     color: white;
     padding: 5%;
     align-items: center;
+    text-overflow: clip;
 }
 
 .testing a{
