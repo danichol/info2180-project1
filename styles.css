@@ -217,6 +217,11 @@ form{
     border-radius: 15px;
 }
 
+form{
+    padding: 10px;
+    margin-right: 20px;
+}
+
 /* The Footer section should have a background colour of #4A5568
    and the color of the text should be white */ 
 
