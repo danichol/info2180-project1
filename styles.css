@@ -210,6 +210,7 @@ font-size: 21px;
 }
 
 .newsletter button {
+    float: right;
     background-color: #5A67D8;
     color: white;
     display: flex;
