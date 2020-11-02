@@ -218,6 +218,7 @@ font-size: 21px;
     width: 100px;
     border: none;
     border-radius: 5px;
+    align-items: center;
 }
 
 .form-group {
