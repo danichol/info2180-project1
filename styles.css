@@ -203,7 +203,7 @@ form{
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding-right: 5px;
+    padding-right: 15px;
 }
 
 .newsletter button {
@@ -214,7 +214,7 @@ form{
     text-align: center;
     width: 100px;
     border: none;
-    border-radius: 15px;
+    border-radius: 5px;
 }
 
 form{
