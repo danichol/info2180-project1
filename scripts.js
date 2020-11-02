@@ -15,4 +15,4 @@ var newsletter = function(){
       
     }
 }
-
+window.onload=newsletter;
