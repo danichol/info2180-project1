@@ -214,19 +214,10 @@ font-size: 21px;
     align-items: center;
 }
 
-.newsletter .btn {
+.newsletter button {
+    padding-left: 5%;
     align-items: center;
-    background-color: #5A67D8;
-    color: white;
-    display: flex;
-    flex-direction: row;
-    padding: 10px 10px;
-    text-align: center;
-    width: 100px;
-    border: none;
-    border-radius: 5px;
-}
-
+}   
 /* .newsletter button {
     background-color: #5A67D8;
     color: white;
