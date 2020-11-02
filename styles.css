@@ -123,6 +123,7 @@ font-size: 21px;
 }
 
 .testing a{
+    display: inline;
     flex-direction: column;
     background-color: #48BB78;
     color: white;
