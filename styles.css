@@ -134,7 +134,6 @@ font-size: 21px;
 }
 
 .testing a{
-    float: right;
     background-color: #48BB78;
     color: white;
     display: block;
@@ -210,7 +209,6 @@ font-size: 21px;
 }
 
 .newsletter button {
-    float: right;
     background-color: #5A67D8;
     color: white;
     display: flex;
