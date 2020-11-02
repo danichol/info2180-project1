@@ -131,8 +131,7 @@ font-size: 21px;
     color: white;
     padding: 5%;
     align-items: center;
-    overflow-wrap: normal;
-}
+ }
 
 .testing a{
     background-color: #48BB78;
@@ -144,6 +143,10 @@ font-size: 21px;
     border-radius: 5px;
     text-decoration: none;
     text-transform: uppercase;
+}
+
+.testing cta{
+    padding-right: 5%;
 }
 
 /* For the "Recent Stories" main heading and the links to "Read this Story"
