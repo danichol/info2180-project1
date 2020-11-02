@@ -117,7 +117,6 @@ font-size: 21px;
 
 .testing .container{
     display: flex;
-    flex-direction: column;
     background-color: #4A5568;
     color: white;
     padding: 5%;
