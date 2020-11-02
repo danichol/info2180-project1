@@ -220,9 +220,9 @@ form{
 }
 
 .form-group {
-    display:inline-flex;
+    display: flex;
     flex-direction: row;
-    align-items: right;
+    align-items: center;
     margin-bottom: 35px;
 }
 
