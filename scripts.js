@@ -4,16 +4,14 @@ var emailform = function(){
     var entry = document.getElementById("email");
     var emailaddy = document.getElementById("email");
 
-    document.getElementById("myAnchor").addEventListener("click", function(event){
-        event.preventDefault()
+    document.getElementById("myAnchor").addEventListener("click", function(e){
+        e.preventDefault()
       });
 
     document.getElementsByClassName("btn")[1].function(e);
     var input = entry.value;
     var submission = emailaddy.value;
-     var empty = "";
-
-            if (entry===empty || entry===null){
+            if (input==="" || input===null){
                 document.getElementsByClassName("message")[0].innerHTML ="Please enter a valid email address.";
             }
             else{
