@@ -21,6 +21,7 @@ header h1{
     background-color:white;
     font-size: 18px;
     float: right;
+    text-decoration: none;
 }
 
 .container ul{
@@ -28,7 +29,6 @@ header h1{
     display: inline;
     align-self: right;
     padding-left: 11px;
-    text-decoration: none;
 }
 
 .container li{
