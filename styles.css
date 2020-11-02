@@ -224,7 +224,7 @@ form{
     margin-bottom: 35px;
 }
 
-.form-group email{
+#email{
 width: 100%;
   padding: 12px;
   margin: 8px 0;
