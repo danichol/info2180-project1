@@ -137,11 +137,12 @@ font-size: 21px;
     display: block;
     padding: 10px 10px;
     text-align: center;
+    text-decoration: indianred;
+    text-transform: uppercase;
     width: 100px;
     border: none;
     border-radius: 5px;
-    text-decoration: none;
-    text-transform: uppercase;
+ 
 }
 /* For the "Recent Stories" main heading and the links to "Read this Story"
    should have the colour #5A67D8. The title for each story should be 18px in size */
