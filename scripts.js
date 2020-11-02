@@ -9,7 +9,7 @@ var emailform = function(){
       });
     
     */
-    document.getElementsByClassName("btn")[1].onclick=function(e){
+    document.getElementsByClassName("btn")[1].addEventListener("click", function(e){
     var input = entry.value;
     /* var submission = emailaddy.value; */ 
             if (input==="" || input===null){
@@ -17,10 +17,10 @@ var emailform = function(){
             }
             else{
 
-                document.getElementsByClassName("message")[0].innerHTML = "Thank you! Your email address" + input +"has been added to our mailing list"
+                document.getElementsByClassName("message")[0].innerHTML = "Thank you! Your email address " + input +" has been added to our mailing list"
             }
-            e.preventDefault();
+            e.preventDefault();})
         }
-    }
+    
 
 window.onload=emailform;
