@@ -42,6 +42,7 @@ header h1{
 
 a:link{
     color: #6B7280;
+    text-decoration: none;
 }
 
 a:hover{
