@@ -129,6 +129,7 @@ font-size: 21px;
     text-align: center;
     width: 100px;
     border-radius: 5px;
+    text-decoration: none;
 }
 
 /* For the "Recent Stories" main heading and the links to "Read this Story"
