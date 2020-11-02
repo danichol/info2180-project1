@@ -211,6 +211,7 @@ font-size: 21px;
     color: white;
     flex-direction: column;
     padding:5%;
+    padding-left: 25%;
     align-items: center;
 }
 
