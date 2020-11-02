@@ -124,7 +124,7 @@ font-size: 21px;
 
 .testing a{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     background-color: #48BB78;
     color: white;
     display: block;
