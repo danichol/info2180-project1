@@ -5,15 +5,11 @@ var emailform = function(){
     var entry = document.getElementById("email");
     var emailaddy = document.getElementById("email");
 
-   /* form.addEventListener('submit', (e) =>{
-        e.preventDefault();
+    document.getElementById("myAnchor").addEventListener("click", function(event){
+        event.preventDefault()
+      });
 
-        checkInput();
-    });
-
-    function checkInput(){ */
-
-    document.getElementsByClassName("btn")[1].function(e){
+    document.getElementsByClassName("btn")[1].function(e);
     var input = entry.value;
     var submission = emailaddy.value;
      var empty = "";
@@ -25,7 +21,6 @@ var emailform = function(){
                 document.getElementsByClassName("message")[0].innerHTML = "Thank you! Your email address" + submission +"has been added to our mailing list"
             }
         }
-    }
-}
+
 
 window.onload=emailform;
