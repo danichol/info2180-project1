@@ -16,7 +16,8 @@ var emailform = function(){
                 document.getElementsByClassName("message")[0].innerHTML ="Please enter a valid email address.";
             }
             else{
-                document.getElementsByClassName("message")[0].innerHTML = "Thank you! Your email address" + submission +"has been added to our mailing list"
+
+                document.getElementsByClassName("message")[0].innerHTML = "Thank you! Your email address" + input +"has been added to our mailing list"
             }
             e.preventDefault();
         }
