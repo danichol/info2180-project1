@@ -198,13 +198,14 @@ font-size: 21px;
     padding:5%;
     align-items: center;
 }
-
+/* 
 form{
     display: flex;
     flex-direction: row;
     align-items: center;
     padding-right: 15px;
 }
+*/
 
 .newsletter button {
     background-color: #5A67D8;
