@@ -1,7 +1,6 @@
 /* Add your JavaScript to this file */
 
 var emailform = function(){
-    const form = document.getElementsByClassName("form-group");
     var entry = document.getElementById("email");
     var emailaddy = document.getElementById("email");
 
