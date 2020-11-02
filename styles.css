@@ -229,6 +229,9 @@ font-size: 21px;
     color: white;
 }   
 
+.newsletter .btn{
+    padding-left: 3%;
+}
 form {
     display: flex;
     flex-direction: row;
