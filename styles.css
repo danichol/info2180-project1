@@ -27,6 +27,7 @@ header .container{
     float: right;
     text-decoration: none;
     padding-right: 1%;
+    font-weight: bold;
 }
 
 .container ul{
