@@ -115,13 +115,15 @@ font-size: 21px;
    the text colour should be white. The link to "Learn More" should have a
    background colour of #48BB78 and rounded corners of 5px. */
 
-.testing{
+.testing .container{
+    display: flex;
     background-color: #4A5568;
     color: white;
     padding: 5%;
 }
 
 .testing a{
+    flex-direction: column;
     background-color: #48BB78;
     color: white;
     display: block;
