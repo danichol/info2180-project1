@@ -5,17 +5,18 @@ var emailform = function(){
     var entry = document.getElementById("email");
     var emailaddy = document.getElementById("email");
 
-    form.addEventListener('submit', (e) =>{
+   /* form.addEventListener('submit', (e) =>{
         e.preventDefault();
 
         checkInput();
     });
 
-    function checkInput(){
-        document.getElementsByClassName("btn")[1].function(e){
-            var input = entry.value;
-            var submission = emailaddy.value;
-            var empty = "";
+    function checkInput(){ */
+
+    document.getElementsByClassName("btn")[1].function(e){
+    var input = entry.value;
+    var submission = emailaddy.value;
+     var empty = "";
 
             if (entry===empty || entry===null){
                 document.getElementsByClassName("message")[0].innerHTML ="Please enter a valid email address.";
