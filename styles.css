@@ -209,7 +209,7 @@ form{
 .newsletter button {
     background-color: #5A67D8;
     color: white;
-    display: block;
+    display: inline-flex;
     padding: 10px 10px;
     text-align: center;
     width: 100px;
