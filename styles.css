@@ -214,7 +214,8 @@ font-size: 21px;
     align-items: center;
 }
 
-.newsletter button {
+.newsletter .btn {
+    align-items: center;
     background-color: #5A67D8;
     color: white;
     display: flex;
@@ -225,6 +226,19 @@ font-size: 21px;
     border: none;
     border-radius: 5px;
 }
+
+/* .newsletter button {
+    background-color: #5A67D8;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 10px;
+    text-align: center;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+}
+*/
 
 .form-group {
     display: flex;
