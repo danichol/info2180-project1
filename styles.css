@@ -205,6 +205,9 @@ font-size: 21px;
    #48BB78 and the text color should be white. The "Subscribe" button should 
    have a background colour of #5A67D8*/
 
+ .newsletter{
+      margin: auto;
+  } 
 .newsletter .container{
     display: flex;
     background-color: #48BB78;
@@ -225,10 +228,6 @@ font-size: 21px;
     background-color: #5A67D8;
     color: white;
 }   
-
-.newsletter button{
-    padding-left: 1%;
-}
 
 form {
     display: flex;
