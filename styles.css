@@ -224,6 +224,16 @@ form{
     margin-bottom: 35px;
 }
 
+.form-group email{
+width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+
+}
+
 /* The Footer section should have a background colour of #4A5568
    and the color of the text should be white */ 
 
