@@ -209,7 +209,8 @@ form{
 .newsletter button {
     background-color: #5A67D8;
     color: white;
-    display: inline-flex;
+    display: flex;
+    flex-direction: row;
     padding: 10px 10px;
     text-align: center;
     width: 100px;
@@ -222,7 +223,6 @@ form{
     flex-direction: row;
     align-items: center;
     margin-bottom: 35px;
-    background-color: pink;
 }
 
 #email{
